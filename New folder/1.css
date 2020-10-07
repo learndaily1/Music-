@@ -9,6 +9,10 @@ body {
 .body1 {
     display: block;
 }
+h1{
+    font-size:3rem;
+    color:white;
+}
 .alphabet {
     width: 7.8125rem;
     height: 7.8125rem;
