@@ -1,0 +1,219 @@
+body {
+    box-sizing: border-box;
+    text-align: center;
+    background-color: teal;
+    padding: 50px;
+    display: block;
+}
+
+.body1 {
+    display: block;
+}
+.alphabet {
+    width: 7.8125rem;
+    height: 7.8125rem;
+    display: inline-block;
+    border-radius: 0.5rem;
+    background-color: white;
+    font-size: 4rem;
+    color: white;
+}
+
+.a {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-size: 7.8125rem 7.8125rem;
+
+}
+
+.b {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-size: 7.8125rem 7.8125rem;
+}
+
+.c {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-size: 7.8125rem 7.8125rem;
+    
+}
+
+.d {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-size: 7.8125rem 7.8125rem;
+}
+
+.e {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-size: 7.8125rem 7.8125rem;
+}
+
+.f {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-size: 7.8125rem 7.8125rem;
+}
+
+.g {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-size: 7.8125rem 7.8125rem;
+}
+
+.h {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-size: 7.8125rem 7.8125rem;
+}
+
+.i {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-size: 7.8125rem 7.8125rem;
+}
+
+.j {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-size: 7.8125rem 7.8125rem;
+}
+
+.k {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-size: 7.8125rem 7.8125rem;
+}
+
+.l{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-size: 7.8125rem 7.8125rem;
+}
+
+.m{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-size: 7.8125rem 7.8125rem;
+}
+.n {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-size: 7.8125rem 7.8125rem;
+}
+
+.o {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-size: 7.8125rem 7.8125rem;
+}
+
+.p {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-size: 7.8125rem 7.8125rem;
+}
+
+.q {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-size: 7.8125rem 7.8125rem;
+}
+
+.r {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-size: 7.8125rem 7.8125rem;
+}
+
+.s {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-size: 7.8125rem 7.8125rem;
+}
+
+.t {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-size: 7.8125rem 7.8125rem;
+}
+
+.u {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-size: 7.8125rem 7.8125rem;
+}
+
+.v {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-size: 7.8125rem 7.8125rem;
+}
+
+.w {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-size: 7.8125rem 7.8125rem;
+}
+
+.x {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-size: 7.8125rem 7.8125rem;
+}
+
+.y {
+    bfont-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-size: 7.8125rem 7.8125rem;
+}
+
+.z {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-size: 7.8125rem 7.8125rem;
+}
+
+
+
+
+
+@media only screen and (max-width:700px) {
+    body {
+        box-sizing: border-box;
+        text-align: center;
+        background-color: teal;
+        padding: 5px;
+        display: block;
+    }
+
+    .numbers {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+
+    .number {
+        width: 4rem;
+        height: 4rem;
+        display: inline-block;
+        border-radius: 0.5rem;
+        background-color: white;
+        font-size: 0.8rem;
+        color: black;
+        margin: 5px;
+    }
+
+    .zero {
+        background-image: url('images/0.png');
+        background-size: 4rem 4rem;
+    }
+
+   
+
+
+
+}
