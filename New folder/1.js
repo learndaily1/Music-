@@ -5,7 +5,13 @@ for (var i = 0; i < document.querySelectorAll("button").length; i++) {
       var key = this.textContent;
       call(key);
     });
+  
+  document.addEventListener("keyup",function(event){
+    call(event.key);
+  });
 }
+
+
 function call(m){
     switch (m) {
       case "a":
